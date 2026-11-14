@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-QA-Account-Subscription-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-QA-Account-Subscription-Management?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-QA-Account-Subscription-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-QA-Account-Subscription-Management?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-QA-Account-Subscription-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-QA-Account-Subscription-Management?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-QA-Account-Subscription-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg?style=flat-square" alt="License: CC0 1.0" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -98,9 +98,9 @@ Commercial QA platforms provide cross-browser testing clouds, mobile device farm
 
 While specialized open-source platforms built *exclusively* for QA device clouds do not exist, modern engineering teams adapt open-source subscription management, meter-based billing, and invoicing engines to govern internal QA infrastructure, allocate department seats, track test runner minutes, and manage billing.
 
-The table below lists open-source projects sorted descending by **GitHub Stars**:
+The table below lists open-source projects sorted descending by **GitHub_Stars**:
 
-| Project | GitHub Star Badge | Stars | Stack | License | Core Capabilities for QA Infrastructure |
+| Project | GitHub Stars_Badge | GitHub_Stars | Stack | License | Core Capabilities for QA Infrastructure |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Lago](https://github.com/getlago/lago)** | [![Stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers) | **10,800+** | Go / Ruby on Rails | AGPL-3.0 | Real-time usage event metering, credit wallets, test runner consumption tracking, and flexible recurring subscription tiers |
 | **[Wallos](https://github.com/ellite/Wallos)** | [![Stars](https://img.shields.io/github/stars/ellite/Wallos?style=social&color=white)](https://github.com/ellite/Wallos/stargazers) | **8,800+** | PHP / SQLite | MIT | Self-hosted subscription tracker for logging recurring SaaS seats, license renewal alerts, category spend, and multi-currency cost breakdowns |
